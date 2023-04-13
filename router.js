@@ -3,7 +3,7 @@ const httpStatus = require('http-status-codes'),
     utils = require('./utils');
 
 const routes = {
-    "Get": {},
+    "GET": {},
     "POST": {}
 };
 
